@@ -6,6 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=matheusqrz.dev@gmail.com)
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusSQueiroz&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSQueiroz)](https://github.com/MatheusSQueiroz/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
 
