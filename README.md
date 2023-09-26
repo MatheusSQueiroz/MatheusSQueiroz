@@ -50,5 +50,3 @@
   <img align="center" alt="SQL" title="SQL" height="30" width="30" src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png"/>
   <img align="center" alt="Git" title="Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
-<br/>
-Apaixonado por tecnologia e soluções ágeis para problemas complexos, sempre em evolução.
