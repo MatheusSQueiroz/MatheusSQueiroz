@@ -13,7 +13,7 @@
 
 - 🌱 Atualmente estudando **.NET, REACT & SQL SERVER**
 
-- 👯 Colaborando com [Projeto Integrador - Generation Brasil](https://github.com/brenonsc/Disque011)
+- 👯 Colaborando com [Projeto Integrador - Generation Brasil](https://github.com/AlertUp-Projeto-integrador-ODS-11)
 
 - 💬 Me pergunte sobre **qualquer coisa, estou sempre disposto a ajudar!**
 
